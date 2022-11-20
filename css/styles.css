@@ -1,0 +1,62 @@
+
+.title {
+    color: rgb(0, 0, 0, 1);
+}
+
+.subtitle {
+    color: rgba(0, 0, 0, 1);
+    font-weight: lighter;
+    text-transform: uppercase;  
+}
+
+.list-name {
+    font-weight: bold;
+    color: rgba(0, 0, 0, 1);
+}
+
+.text {
+    color: rgba(0, 0, 0, 1);;
+}
+.second {
+    margin-left: 50px;
+}
+
+li {
+    color: rgba(0, 0, 170, 1);
+}
+
+[text=bold] {
+    color: red
+}
+
+.color-gray {
+    color: rgb(38, 37, 37);
+
+}
+#color-purple {
+    color: rgba(156, 17, 17,1);
+}
+li[color=green] {
+    color: rgb(52, 117, 40);
+}
+
+.color-orange {
+    color: rgb(239, 129, 33);
+}
+
+.pink {
+    color: rgba(210, 48, 158, 0.8);
+}
+#color-gray {
+    color: rgb(73, 73, 73);
+}
+
+li>span {
+    color: rgb(63, 111, 92);
+}
+li>span>span {
+    color: brown;
+}
+
+
+
